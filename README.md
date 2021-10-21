@@ -39,4 +39,4 @@ O projeto consiste no controle de um carrinho de duas rodas através da internet
 - 2 resistores de 2200 ohms.
 
 <p>Os componentes devem ser conectados de acordo com o esquema do sistema:</p>
-<img src="IOT-esquema com sensor.png">
+<img src="esquema.png">
